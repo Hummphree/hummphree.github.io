@@ -1,0 +1,188 @@
+I exported this list of my bulk collection using TCGPlayer and included a note at the bottom of my html file referencing so.
+
+1 Stroke of Midnight [WOE] 33
+1 Sworn Companions [GRN] 27
+1 Heraldic Banner [ELD] 222
+1 Mana Tithe [LIST] 25/165
+1 White Mage's Staff [FIN] 42
+1 Griffin Aerie [WOT] 5
+1 Doctor Doom [MSH] 95
+1 Mister Fantastic, Reed Richards (Borderless) [MSH] 320
+1 Bold Biochemist [MSH] 48
+1 Project Deathlok Soldier [MSH] 109
+1 Wakandan Drone Flock [MSH] 40
+1 Serpent Specialist [MSH] 186
+1 Hawkeye's Bow [MSH] 132
+1 Wakandan Royal Guard [MSH] 195
+1 Dependable Quinjet [MSH] 246
+1 Night Nurse, Healer of Heroes [MSH] 26
+1 S.H.I.E.L.D. Helicarrier [MSH] 249
+1 Tigra, Feline Fury [MSH] 191
+1 Epic Fight [MSH] 166
+1 Knowledge Seeker [TLA] 60
+1 Earth Kingdom Jailer [TLA] 16
+1 Aang's Iceberg [TLA] 5
+1 Sokka, Lateral Strategist [TLA] 241
+1 Meditation Pools [TLA] 272
+1 Lost Days [TLA] 62
+1 Water Tribe Captain [TLA] 41
+1 Badgermole [TLA] 166
+1 Yuyan Archers [TLA] 161
+1 Dai Li Indoctrination [TLA] 93
+1 Aang's Journey [TLA] 1
+1 Wandering Musicians [TLA] 250
+1 Wolfbat [TLA] 122
+1 Leaves from the Vine [TLA] 185
+1 Accumulate Wisdom [TLA] 44
+1 Tolls of War [TLA] 245
+1 South Pole Voyager [PRE] 35
+1 Deserter's Disciple [TLA] 131
+1 Serpent's Pass [TLA] 279
+1 Flexible Waterbender [TLA] 50
+1 Zuko's Exile [TLA] 3
+1 Path to Redemption [TLE] 271
+1 Cat-Gator [TLA] 91
+1 Saber-Tooth Moose-Lion [TLA] 194
+1 Bumi Bash [TLA] 125
+1 Foggy Swamp Hunters [TLA] 101
+1 Watery Grasp [TLA] 82
+1 Platypus-Bear [TLA] 236
+1 Shredder, Unrelenting (Borderless) [TMT] 210
+2 Dimension X [TMT] 183
+1 April, Reporter of the Weird (Borderless) [TMT] 206
+6 Stomped by the Foot [TMT] 82
+3 Negate [TMT] 47
+1 The Aesir Escape Valhalla [ACR] 39
+1 Become Anonymous [ACR] 14
+3 Oroku Saki, Shredder Rising [TMT] 68
+3 Stockman, Mad Fly-entist [TMT] 54
+2 Michelangelo, Game Master [TMT] 118
+4 Rocksteady, Crash Courser [TMT] 131
+3 Mouser Mark III [TMT] 159
+2 Punk Frogs [TMT] 164
+4 Bebop, Warthog Warrior [TMT] 59
+3 Zoo Escapees [TMT] 138
+3 Foot Mystic [TMT] 63
+2 Skateboard [TMT] 178
+3 Cowabunga! [TMT] 113
+2 East Wind Avatar [TMT] 5
+1 Leonardo, Big Brother [TMT] 14
+5 Jennika, Bad Apple Big Sister [TMT] 10
+1 Action News Crew [TMT] 1
+2 Donatello, Turtle Techie [TMT] 37
+3 High-Flying Ace [TMT] 9
+1 Donatello, Gadget Master [TMT] 35
+1 Splinter, Hamato Yoshi [TMT] 79
+1 April O'Neil, Kunoichi Trainee [TMT] 3
+5 Mind Transfer Protocol [TMT] 45
+3 Lord Dregg, Insect Invader [TMT] 65
+1 Novel Nunchaku [TMT] 127
+1 Fugitive Droid [TMT] 40
+2 Paramecia Coloniex [TMT] 70
+1 Courier of Comestibles [TMT] 112
+1 Ooze Spill [TMT] 48
+3 The Last Ronin's Technique [TMT] 12
+1 Great Hall of the Biblioplex [SOS] 257
+2 Mutant Town [TMT] 187
+1 TCRI Building [TMT] 189
+1 Escape Tunnel [TMT] 184
+2 Tunnel Rats [TMT] 84
+1 Brotherhood Headquarters [ACR] 80
+1 Mary Read and Anne Bonny (Borderless) [ACR] 120
+2 Mona Lisa, Science Geek [TMT] 123
+4 Featherbrained Filcher [TMT] 6
+2 West Wind Avatar [TMT] 137
+2 Death in the Family [TMT] 61
+2 Ragamuffin Raptor [TMT] 130
+2 Turtle Lair [TMT] 190
+2 Bebop & Rocksteady [TMT] 140
+2 Mighty Mutanimals [TMT] 21
+2 The Neutrinos [TMT] 160
+2 Shredder's Armor [TMT] 75
+2 Saved by the Shell [TMT] 132
+4 Dream Beavers [TMT] 62
+2 Metalhead [TMT] 44
+2 Mutagen Man, Living Ooze [TMT] 124
+2 Transdimensional Bovine [TMT] 134
+2 Sally Pride, Lioness Leader [TMT] 24
+2 Turncoat Kunoichi [TMT] 26
+2 Madame Null, Power Broker [TMT] 66
+2 Chrome Dome [TMT] 172
+3 Putrid Pals [TMT] 165
+3 Tenderize [TMT] 133
+4 Primordial Pachyderm [TMT] 129
+2 Frog Butler [TMT] 114
+6 Foot Elite [TMT] 146
+2 Foot Ninjas [TMT] 147
+4 Hamato Guardian Stance [TMT] 8
+2 Mutant Chain Reaction [TMT] 125
+2 Ice Cream Kitty [TMT] 150
+4 Return to the Sewers [TMT] 52
+2 Shark Shredder, Killer Clone [TMT] 73
+2 Rat King, Verminister [TMT] 71
+2 South Wind Avatar [TMT] 78
+2 Turtles in Time [TMT] 55
+4 Grounded for Life [TMT] 7
+2 Sokrates, Athenian Teacher [ACR] 67
+1 Spinerock Tyrant (0322) (Showcase) [ECL] 322
+4 Zog, Triceraton Castaway [TMT] 111
+1 Illegitimate Business [TMT] 186
+1 Shao Jun (Showcase) [ACR] 151
+3 Purple Dragon Punks [TMT] 100
+3 Null Group Biological Assets [TMT] 98
+2 Rock Soldiers [TMT] 107
+1 Raphael, Most Attitude [TMT] 101
+1 Casey Jones, Jury-Rig Justiciar [TMT] 87
+2 Hard-Won Jitte [TMT] 91
+1 Spicy Oatmeal Pizza [TMT] 109
+1 General Traag, Heart of Stone [TMT] 90
+1 Mouser Attack! [TMT] 95
+3 Mutant Town Musicians [TMT] 97
+1 Jennika's Technique [TMT] 93
+1 Omni-Cheese Pizza [TMT] 176
+1 Turtle Blimp [TMT] 180
+1 Utrom Scientists [TMT] 56
+1 Slithering Cryptid [TMT] 168
+2 Squirrelanoids [TMT] 81
+2 Make Your Move [TMT] 20
+1 Buzz Bots [TMT] 32
+1 Monastery Raid [ACR] 35
+1 Burning Curiosity [ECL] 129
+1 Chaos Spewer [ECL] 210
+1 Hovel Hurler [ECL] 230
+2 Raphael, Tough Turtle [TMT] 104
+1 Improvised Arsenal [TMT] 92
+1 Raphael's Technique [TMT] 105
+1 Firdoch Core [ECL] 255
+1 Mouser Foundry [TMT] 96
+1 Manhole Missile [TMT] 94
+1 EPF Point Squad [TMT] 145
+1 Tokka & Rahzar, Terrible Twos [TMT] 171
+5 Bot Bashing Time [TMT] 85
+1 Star Pupil [STX] 30
+1 Aveline de Grandpre [ACR] 40
+1 Web-Shooters [SPM] 22
+1 Shay Cormac (Showcase) [ACR] 153
+1 Propaganda [ACR] 85
+1 Wistfulness [ECL] 252
+1 Palazzo Archers [ACR] 42
+1 Prismari Charm [PPSOS] 364
+1 Selfless Police Captain [MSC] 774
+1 Ravnica at War [LIST] 028/264
+1 The Revelations of Ezio [ACR] 31
+1 Towering Viewpoint [ACR] 77
+1 Alexios, Deimos of Kosmos [ACR] 33
+1 Haystack [ACR] 5
+1 Senu, Keen-Eyed Protector [ACR] 8
+1 Go for the Throat [ACR] 91
+1 Bleeding Effect [ACR] 51
+1 April O'Neil, Kunoichi Trainee [TMT] 3
+1 Turtles Forever [TMT] 27
+1 Champion of the Clachan [ECL] 9
+1 Virulent Emissary [ECL] 202
+1 Gravelgill Scoundrel [ECL] 53
+1 Run Away Together [ECL] 67
+1 Bile-Vial Boggart [ECL] 87
+1 Assert Perfection [ECL] 164
+1 Goldmeadow Nomad [ECL] 18
+1 Flaring Cinder [ECL] 225

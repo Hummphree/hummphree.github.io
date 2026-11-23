@@ -1,0 +1,304 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  color: #334155;
+  background-color: #fbf9f6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.site-header {
+  background: linear-gradient(135deg, #7f1d1d 0%, #991b1b 100%);
+  color: #ffffff;
+  padding: 24px 15px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+  text-align: center;
+}
+
+.header-container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.restaurant-name {
+  font-family: 'Georgia', serif;
+  font-size: 2.2rem;
+  letter-spacing: 0.5px;
+  color: #fff8f0;
+}
+
+.main-content {
+  flex: 1 0 auto;
+  max-width: 1100px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 30px 20px;
+}
+
+.section-title {
+  text-align: center;
+  font-family: 'Georgia', serif;
+  font-size: 1.8rem;
+  color: #7f1d1d;
+  margin-bottom: 25px;
+}
+
+.menu-item {
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.menu-item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
+}
+
+.item-title {
+  font-family: 'Georgia', serif;
+  font-size: 1.25rem;
+  color: #1e293b;
+  margin-bottom: 6px;
+}
+
+.item-price {
+  display: inline-block;
+  font-weight: 700;
+  color: #b45309;
+  font-size: 1.1rem;
+  margin-top: 6px;
+}
+
+.directions-card {
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+}
+
+.directions-text h3 {
+  font-size: 1.15rem;
+  color: #7f1d1d;
+  margin-top: 14px;
+  margin-bottom: 8px;
+}
+
+.directions-text ol {
+  padding-left: 22px;
+  margin-bottom: 16px;
+}
+
+.directions-text li {
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+.map-figure {
+  margin-top: 22px;
+  text-align: center;
+}
+
+.map-img {
+  width: 100%;
+  max-width: 320px;
+  height: auto;
+  border-radius: 8px;
+  border: 2px solid #cbd5e1;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.map-figure figcaption {
+  font-size: 0.85rem;
+  color: #64748b;
+  margin-top: 8px;
+  font-style: italic;
+}
+
+.site-footer {
+  background-color: #1e293b;
+  color: #f8fafc;
+  padding: 30px 20px;
+  margin-top: auto;
+}
+
+.footer-container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.footer-block h3 {
+  color: #fef08a;
+  font-size: 1.1rem;
+  margin-bottom: 10px;
+  font-family: 'Georgia', serif;
+}
+
+.footer-block address {
+  font-style: normal;
+  line-height: 1.6;
+  color: #cbd5e1;
+}
+
+.footer-block p {
+  color: #cbd5e1;
+  line-height: 1.6;
+}
+
+@media (min-width: 1025px) {
+  .menu-section {
+    display: block;
+  }
+
+  .menu-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 28px;
+  }
+
+  .menu-item {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .menu-img {
+    width: 100%;
+    height: 270px;
+    object-fit: cover;
+    display: block;
+  }
+
+  .menu-details {
+    padding: 16px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .directions-section {
+    display: none;
+  }
+
+  .site-footer {
+    display: block;
+  }
+
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+  }
+
+  .footer-address {
+    display: block;
+    flex: 1;
+  }
+
+  .footer-location {
+    display: block;
+    flex: 1.2;
+  }
+
+  .footer-contact {
+    display: block;
+    flex: 1;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 1024px) {
+  .menu-section {
+    display: block;
+  }
+
+  .menu-container {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+
+  .menu-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+    padding: 14px;
+  }
+
+  .menu-img {
+    width: 130px;
+    height: 130px;
+    min-width: 130px;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+
+  .menu-details {
+    flex: 1;
+  }
+
+  .directions-section {
+    display: none;
+  }
+
+  .site-footer {
+    display: block;
+    text-align: center;
+    padding: 24px 20px;
+  }
+
+  .footer-container {
+    display: block;
+  }
+
+  .footer-address {
+    display: none;
+  }
+
+  .footer-location {
+    display: none;
+  }
+
+  .footer-contact {
+    display: block;
+  }
+}
+
+@media (max-width: 599px) {
+  .restaurant-name {
+    font-size: 1.7rem;
+  }
+
+  .menu-section {
+    display: none;
+  }
+
+  .directions-section {
+    display: block;
+  }
+
+  .map-figure {
+    margin-top: 18px;
+  }
+
+  .map-img {
+    width: 100%;
+    max-width: 260px;
+    height: auto;
+  }
+
+  .site-footer {
+    display: none;
+  }
+}
